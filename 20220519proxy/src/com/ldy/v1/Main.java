@@ -1,4 +1,4 @@
-package com.ldy;
+package com.ldy.v1;
 
 /**
  * @author : ldy
@@ -6,7 +6,7 @@ package com.ldy;
  */
 public class Main {
   public static void main(String[] args) {
-    new proxyTime(new proxyLog(new tank())).move();
+    new proxyLog(new proxyTime(new tank())).move();
   }
 }
 
