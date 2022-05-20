@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="20220520proxy" />
+        <module name="20220520Filter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="20200520filter" target="1.8" />
       <module name="20220514pattern" target="1.8" />
+      <module name="20220520filter" target="1.8" />
+      <module name="20220520Filter" target="1.8" />
       <module name="20220520proxy" target="1.8" />
     </bytecodeTargetLevel>
   </component>

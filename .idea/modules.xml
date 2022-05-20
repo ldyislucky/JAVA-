@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/20220514sort/20220514sort.iml" filepath="$PROJECT_DIR$/20220514sort/20220514sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/20220519_Observer/20220519_Observer.iml" filepath="$PROJECT_DIR$/20220519_Observer/20220519_Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/20220519flyweight/20220519flyweight.iml" filepath="$PROJECT_DIR$/20220519flyweight/20220519flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20220520Filter/20220520Filter.iml" filepath="$PROJECT_DIR$/20220520Filter/20220520Filter.iml" />
       <module fileurl="file://$PROJECT_DIR$/20220520proxy/20220520proxy.iml" filepath="$PROJECT_DIR$/20220520proxy/20220520proxy.iml" />
     </modules>
   </component>
